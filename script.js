@@ -56,14 +56,14 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
+    "ah paita PLEASE babyyy :(",
     "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "pls pookiebear :((( mamatay kog wala ka RAGHHH",
+    "isa ka palang skibidi eh MAG YES KANA KASI >:(",
+    "WHAT THE SIGMA PLS BABYYY PLS LOVEEEEEE MAG YES KANA",
+    "k fine... KIDDING SAY YES PLEASE",
+    "sige gud i will stop asking...",
+    "JOKE RA GANI U WILL BE MY VALENTINE WHETHER U LIKE IT OR NOT >:)"
 ];
 
 let messageIndex = 0;
